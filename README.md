@@ -1,3 +1,7 @@
+# ScreenShot of the Working Task with All functionalities........
+
+![Screenshot 2024-03-26 164906](https://github.com/aadil007srm/GdSC_task/assets/157161834/5745bba1-a091-4060-bfe0-0fcb36b0ff0b)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
